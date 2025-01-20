@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-const ThemeProvider = ({ children }: { children: React.ReactNode }) => {
+const ThemeProvider = () => {
   const [theme, setTheme] = useState<string>("default");
 
   // Load theme from local storage on mount
@@ -69,7 +69,6 @@ const ThemeProvider = ({ children }: { children: React.ReactNode }) => {
           ))}
         </ul>
       </div>
-
     </>
   );
 };
