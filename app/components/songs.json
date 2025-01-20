@@ -1,0 +1,567 @@
+[
+    {
+        "song": "https://aditya146699.github.io/song/songs/1985.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/1985.jpg",
+        "name": "1985",
+        "artist": "Bo Burnham"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/7_Years.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/7_Years.jpg",
+        "name": "7 Years",
+        "artist": "Lukas Graham"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Alibi.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Alibi.jpg",
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "artist": "Sevdaliza"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/All_The_Way_Up_feat._Infared.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/All_The_Way_Up_feat._Infared.jpg",
+        "name": "All The Way Up (feat. Infared)",
+        "artist": "Fat Joe"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Alone_Alan_Walker.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Alone_Alan_Walker.jpg",
+        "name": "Alone - Alan Walker",
+        "artist": "Alan Walker"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Alone_Pt._II.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Alone_Pt._II.jpg",
+        "name": "Alone, Pt. II",
+        "artist": "Alan Walker"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Ashes_Stellar.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Ashes_Stellar.jpg",
+        "name": "Ashes - Stellar",
+        "artist": "Stellar"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/A_Man_Without_Love.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/A_Man_Without_Love.jpg",
+        "name": "A Man Without Love",
+        "artist": "Engelbert Humperdinck"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Bad_boy.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Bad_boy.jpg",
+        "name": "Bad boy",
+        "artist": "Marwa Loud"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Bad_Boy_feat._Luana_Kiara.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Bad_Boy_feat._Luana_Kiara.jpg",
+        "name": "Bad Boy (feat. Luana Kiara)",
+        "artist": "Raaban"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/bad_guy.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/bad_guy.jpg",
+        "name": "bad guy - Billie Eilish",
+        "artist": "Billie Eilish"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Bad_Romance.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Bad_Romance.jpg",
+        "name": "Bad Romance",
+        "artist": "Lady Gaga"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Bananza_Belly_Dancer.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Bananza_Belly_Dancer.jpg",
+        "name": "Bananza (Belly Dancer)",
+        "artist": "Akon"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Beggin.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Beggin.jpg",
+        "name": "Beggin'",
+        "artist": "Måneskin"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Believer.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Believer.jpg",
+        "name": "Believer",
+        "artist": "Imagine Dragons"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Bling-Bang-Bang-Born.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Bling-Bang-Bang-Born.jpg",
+        "name": "Bling-Bang-Bang-Born",
+        "artist": "Creepy Nuts"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Bones.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Bones.jpg",
+        "name": "Bones - Imagine Dragons",
+        "artist": "Imagine Dragons"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Boss_Bitch.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Boss_Bitch.jpg",
+        "name": "Boss Bitch",
+        "artist": "Doja Cat"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Bubblegum_Bitch.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Bubblegum_Bitch.jpg",
+        "name": "Bubblegum Bitch",
+        "artist": "MARINA"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Build_a_Bitch.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Build_a_Bitch.jpg",
+        "name": "Build a Bitch",
+        "artist": "Bella Poarch"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Cheap_Thrills.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Cheap_Thrills.jpg",
+        "name": "Cheap Thrills",
+        "artist": "Sia"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Cheri_Cheri_Lady.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Cheri_Cheri_Lady.jpg",
+        "name": "Cheri Cheri Lady",
+        "artist": "Modern Talking"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Clandestina_feat._Emma_Peters.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Clandestina_feat._Emma_Peters.jpg",
+        "name": "Clandestina (feat. Emma Peters) - JVSTIN Remix",
+        "artist": "FILV"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Closer.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Closer.jpg",
+        "name": "Closer - The Chainsmokers, Halsey",
+        "artist": "The Chainsmokers, Halsey"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Cure_For_Me.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Cure_For_Me.jpg",
+        "name": "Cure For Me",
+        "artist": "AURORA"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Dance_Monkey.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Dance_Monkey.jpg",
+        "name": "Dance Monkey",
+        "artist": "Tones And I"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Dancin.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Dancin.jpg",
+        "name": "Dancin - Krono Remix",
+        "artist": "Aaron Smith"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Darkside_Alan_Walker.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Darkside_Alan_Walker.jpg",
+        "name": "Darkside",
+        "artist": "Alan Walker"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Demons.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Demons.jpg",
+        "name": "Demons",
+        "artist": "Imagine Dragons"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Devil_Eyes.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Devil_Eyes.jpg",
+        "name": "Devil Eyes",
+        "artist": "Hippie Sabotage"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Die_With_A_Smile.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Die_With_A_Smile.jpg",
+        "name": "Die With A Smile - Lady Gaga, Bruno Mars",
+        "artist": "Lady Gaga, Bruno Mars"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Enemy.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Enemy.jpg",
+        "name": "Enemy (with JID) - from the series Arcane League of Legends",
+        "artist": "Imagine Dragons"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Everyday_Normal_Guy_2.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Everyday_Normal_Guy_2.jpg",
+        "name": "Everyday Normal Guy 2",
+        "artist": "Jon Lajoie"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Faded_Alan_Walker.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Faded_Alan_Walker.jpg",
+        "name": "Faded",
+        "artist": "Alan Walker"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Fairytale.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Fairytale.jpg",
+        "name": "Fairytale",
+        "artist": "Alexander Rybak"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/FAIRY_TAIL_Main_Theme.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/FAIRY_TAIL_Main_Theme.jpg",
+        "name": "FAIRY TAIL Main Theme",
+        "artist": "Yasuharu Takanashi"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Fuwa_Fuwa_Time.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Fuwa_Fuwa_Time.jpg",
+        "name": "Fuwa Fuwa Time",
+        "artist": "Sakurakou K-ON Bu"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Genius.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Genius.jpg",
+        "name": "Genius (feat. Sia, Diplo, and Labrinth)",
+        "artist": "Sia"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Gurenge.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Gurenge.jpg",
+        "name": "Gurenge (From \"Demon Slayer: Kimetsu no Yaiba\")",
+        "artist": "Akano"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Happy_Nation.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Happy_Nation.jpg",
+        "name": "Happy Nation",
+        "artist": "Ace of Base"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Havana_feat._Young_Thug.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Havana_feat._Young_Thug.jpg",
+        "name": "Havana (feat. Young Thug) - Camila Cabello, Young Thug",
+        "artist": "Camila Cabello, Young Thug"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Heat_Waves.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Heat_Waves.jpg",
+        "name": "Heat Waves",
+        "artist": "Glass Animals"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Hymn_for_the_Weekend.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Hymn_for_the_Weekend.jpg",
+        "name": "Hymn for the Weekend - Coldplay",
+        "artist": "Coldplay"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Ignite.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Ignite.jpg",
+        "name": "Ignite - Alan Walker, Julie Bergan, K-391, SEUNGRI",
+        "artist": "Alan Walker, Julie Bergan, K-391, SEUNGRI"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Insane.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Insane.jpg",
+        "name": "Insane",
+        "artist": "Black Gryph0n"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/I_Wanna_Be_Yours.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/I_Wanna_Be_Yours.jpg",
+        "name": "I Wanna Be Yours - Arctic Monkeys",
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/I_WANNA_BE_YOUR_SLAVE.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/I_WANNA_BE_YOUR_SLAVE.jpg",
+        "name": "I WANNA BE YOUR SLAVE",
+        "artist": "Måneskin"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Judas.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Judas.jpg",
+        "name": "Judas",
+        "artist": "Lady Gaga"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Kaleo.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Kaleo.jpg",
+        "name": "Way down We Go",
+        "artist": "KALEO"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Let_Me_Down_Slowly.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Let_Me_Down_Slowly.jpg",
+        "name": "Let Me Down Slowly",
+        "artist": "Alec Benjamin"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Let_Me_Love_You.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Let_Me_Love_You.jpg",
+        "name": "Let Me Love You",
+        "artist": "DJ Snake"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Levitating.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Levitating.jpg",
+        "name": "Levitating - Dua Lipa",
+        "artist": "Dua Lipa"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/loli_selling_ice_cream.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/loli_selling_ice_cream.jpg",
+        "name": "loli selling ice cream",
+        "artist": "Heiakim"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Lonely.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Lonely.jpg",
+        "name": "Lonely",
+        "artist": "Akon"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Loser_Baby.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Loser_Baby.jpg",
+        "name": "Loser, Baby",
+        "artist": "Andrew Underberg"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/lovely_with_Khalid.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/lovely_with_Khalid.jpg",
+        "name": "lovely (with Khalid) - Billie Eilish, Khalid",
+        "artist": "Billie Eilish, Khalid"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Love_Again.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Love_Again.jpg",
+        "name": "Love Again",
+        "artist": "Dua Lipa"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Love_Story.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Love_Story.jpg",
+        "name": "Love Story",
+        "artist": "Indila"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Love_Story_Taylor_Version.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Love_Story_Taylor_Version.jpg",
+        "name": "Love Story (Taylor’s Version)",
+        "artist": "Taylor Swift"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Me_and_the_Devil.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Me_and_the_Devil.jpg",
+        "name": "Me and the Devil - Soap&Skin",
+        "artist": "Soap&Skin"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Mi_Gente.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Mi_Gente.jpg",
+        "name": "Mi Gente - J Balvin, Willy William",
+        "artist": "J Balvin, Willy William"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Mockingbird.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Mockingbird.jpg",
+        "name": "Mockingbird",
+        "artist": "Eminem"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/MONTERO.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/MONTERO.jpg",
+        "name": "MONTERO (Call Me By Your Name) - Lil Nas X",
+        "artist": "Lil Nas X"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Moral_of_the_Story.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Moral_of_the_Story.jpg",
+        "name": "Moral of the Story",
+        "artist": "Ashe"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/not_dreaming.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/not_dreaming.jpg",
+        "name": "not dreaming",
+        "artist": "Mads"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/No_Roots.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/No_Roots.jpg",
+        "name": "No Roots",
+        "artist": "Alice Merton"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/One_Dance.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/One_Dance.jpg",
+        "name": "One Dance",
+        "artist": "Drake"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/One_Kiss.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/One_Kiss.jpg",
+        "name": "One Kiss (with Dua Lipa) - Calvin Harris, Dua Lipa",
+        "artist": "Calvin Harris, Dua Lipa"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/On_My_Way.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/On_My_Way.jpg",
+        "name": "On My Way",
+        "artist": "Alan Walker"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Out_For_Love.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Out_For_Love.jpg",
+        "name": "Out For Love - Extended Version",
+        "artist": "MilkyyMelodies"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Paint_The_Town_Red.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Paint_The_Town_Red.jpg",
+        "name": "Paint The Town Red - Doja Cat",
+        "artist": "Doja Cat"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Poison.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Poison.jpg",
+        "name": "Poison - Hazbin Hotel Original Soundtrack",
+        "artist": "Blake Roman"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Rasputin_Boney.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Rasputin_Boney.jpg",
+        "name": "Rasputin",
+        "artist": "Boney M."
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Rockabye.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Rockabye.jpg",
+        "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "artist": "Clean Bandit"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Senorita.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Senorita.jpg",
+        "name": "Señorita",
+        "artist": "Shawn Mendes"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Shake_Ya_Boom_Boom.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Shake_Ya_Boom_Boom.jpg",
+        "name": "Shake Ya Boom Boom - Static & Ben El, Black Eyed Peas",
+        "artist": "Static & Ben El, Black Eyed Peas"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Shameless.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Shameless.jpg",
+        "name": "Shameless",
+        "artist": "Camila Cabello"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Shape_of_You.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Shape_of_You.jpg",
+        "name": "Shape of You - Ed Sheeran",
+        "artist": "Ed Sheeran"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Snowman.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Snowman.jpg",
+        "name": "Snowman",
+        "artist": "Sia"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Starboy.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Starboy.jpg",
+        "name": "Starboy",
+        "artist": "The Weeknd"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/STAY.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/STAY.jpg",
+        "name": "STAY (with Justin Bieber)",
+        "artist": "The Kid LAROI"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Stayed_Gone.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Stayed_Gone.jpg",
+        "name": "Stayed Gone",
+        "artist": "Christian Borle"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Sunflower.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Sunflower.jpg",
+        "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+        "artist": "Post Malone"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Suzume.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Suzume.jpg",
+        "name": "Suzume (feat. Toaka)",
+        "artist": "RADWIMPS"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Sweater_Weather.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Sweater_Weather.jpg",
+        "name": "Sweater Weather - The Neighbourhood",
+        "artist": "The Neighbourhood"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Thunder.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Thunder.jpg",
+        "name": "Thunder",
+        "artist": "Imagine Dragons"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Toca_Toca.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Toca_Toca.jpg",
+        "name": "Toca Toca - Radio Edit",
+        "artist": "Fly Project"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Toxic.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Toxic.jpg",
+        "name": "Toxic",
+        "artist": "BoyWithUke"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Tu_Tu.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Tu_Tu.jpg",
+        "name": "Tu-Tu - Cover",
+        "artist": "Alma Zarza"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Unholy_feat._Kim_Petras.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Unholy_feat._Kim_Petras.jpg",
+        "name": "Unholy (feat. Kim Petras)",
+        "artist": "Sam Smith"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Wellerman_-_Sea_Shanty.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Wellerman_-_Sea_Shanty.jpg",
+        "name": "Wellerman - Sea Shanty",
+        "artist": "Nathan Evans"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Who_That_Girl.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Who_That_Girl.jpg",
+        "name": "Who's That Girl? - Eve",
+        "artist": "Eve"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Without_Me.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Without_Me.jpg",
+        "name": "Without Me - Eminem",
+        "artist": "Eminem"
+    },
+    {
+        "song": "https://aditya146699.github.io/song/songs/Xanadu.mp3",
+        "image": "https://aditya146699.github.io/song/thumbnails/Xanadu.jpg",
+        "name": "Xanadu",
+        "artist": "Ummet Ozcan"
+    }
+]
+
