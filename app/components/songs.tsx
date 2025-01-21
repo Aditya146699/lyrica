@@ -8,7 +8,8 @@ const Songs: React.FC = () => {
   const [searchQuery, setSearchQuery] = useState<string>('');
 
   const handleSongClick = (index: number) => {
-    setCurrentSongIndex(index);
+    const filteredIndex = menu.findIndex(song => song.name === filteredSongs[index].name && song.artist === filteredSongs[index].artist);
+    setCurrentSongIndex(filteredIndex);
   };
 
   const handleNext = () => {
@@ -34,16 +35,15 @@ const Songs: React.FC = () => {
 
   return (
     <div>
-    
-    <div className='flex justify-center'>
-      <input
-        type="text"
-        placeholder="Search songs..."
-        value={searchQuery}
-        onChange={(e) => setSearchQuery(e.target.value)}
-        className="input input-bordered input-primary w-full max-w-xs f"
-      />
-</div>
+      <div className='flex justify-center'>
+        <input
+          type="text"
+          placeholder="Search songs..."
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+          className="input input-bordered input-primary w-full max-w-xs"
+        />
+      </div>
 
       <menu className="flex flex-wrap justify-center p-2">
         {filteredSongs.map((song, index) => (
