@@ -105,13 +105,16 @@ const Player: React.FC<PlayerProps> = ({ currentSong, onNext, onPrevious }) => {
   return (
     <div
       ref={playerRef}
-      className="player glass fixed bottom-0 left-0 right-0 flex flex-col items-center shadow-lg" onDoubleClick={toggleFullscreen}
-    >
+      className="player glass fixed bottom-0 left-0 right-0 flex flex-col items-center shadow-lg" onDoubleClick={toggleFullscreen}>
       {currentSong && (
         <>
-          <div className="flex items-center space-x-4 w-full max-w-4xl mt-5 px-2">
-            <img src={currentSong.image} alt={currentSong.name} className="w-12 h-12 rounded" />
-            <div className="flex-1">
+          <div className="flex flex-row w-full mt-5 px-2">
+
+            <div>
+              <img src={currentSong.image} alt={currentSong.name} className="w-12 h-12 rounded" />
+            </div>
+
+            <div className="flex-1 ml-2">
               <h3 className="text-lg font-semibold">{currentSong.name}</h3>
               <p className="text-sm">{currentSong.artist}</p>
             </div>
@@ -127,6 +130,7 @@ const Player: React.FC<PlayerProps> = ({ currentSong, onNext, onPrevious }) => {
                 <b>►►</b>
               </button>
             </div>
+
           </div>
 
           {/* Progress Bar and Timeline */}
