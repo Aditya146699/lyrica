@@ -35,7 +35,9 @@ export default function RootLayout({
   </div>
   <div className="flex-none gap-2">
 
-  <ThemeProvider>{children}</ThemeProvider>
+  <ThemeProvider>
+  
+  </ThemeProvider>
 </div>
 </div>
 
