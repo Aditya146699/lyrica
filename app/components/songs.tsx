@@ -5,6 +5,7 @@ import Player from './player';
 
 const Songs: React.FC = () => {
   const [currentSongIndex, setCurrentSongIndex] = useState<number | null>(null);
+  const [searchQuery, setSearchQuery] = useState<string>('');
 
   const handleSongClick = (index: number) => {
     setCurrentSongIndex(index);
@@ -26,10 +27,26 @@ const Songs: React.FC = () => {
     }
   };
 
+  const filteredSongs = menu.filter(song =>
+    song.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+    song.artist.toLowerCase().includes(searchQuery.toLowerCase())
+  );
+
   return (
     <div>
+    
+    <div className='flex justify-center'>
+      <input
+        type="text"
+        placeholder="Search songs..."
+        value={searchQuery}
+        onChange={(e) => setSearchQuery(e.target.value)}
+        className="input input-bordered input-primary w-full max-w-xs f"
+      />
+</div>
+
       <menu className="flex flex-wrap justify-center p-2">
-        {menu.map((song, index) => (
+        {filteredSongs.map((song, index) => (
           <div
             key={index}
             className="card glass w-60 m-5 max-[600px]:m-1 max-[600px]:flex max-[600px]:flex-row max-[600px]:w-full max-[600px]:h-20 cursor-pointer"
