@@ -30,12 +30,12 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lyrica-p523.git
+   git clone https://github.com/Aditya146699/lyrica.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd lyrica-p523
+   cd lyrica
    ```
 
 3. Install dependencies:
