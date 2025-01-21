@@ -45,7 +45,7 @@ const Songs: React.FC = () => {
         />
       </div>
 
-      <menu className="flex flex-wrap justify-center p-2">
+      <menu className="flex flex-wrap justify-center p-2 mb-40">
         {filteredSongs.map((song, index) => (
           <div
             key={index}
