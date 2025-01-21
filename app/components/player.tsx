@@ -102,10 +102,25 @@ const Player: React.FC<PlayerProps> = ({ currentSong, onNext, onPrevious }) => {
     };
   }, []);
 
+// utils/randomColor.js
+const getRandomColor = () => {
+  const letters = '0123456789ABCDEF';
+  let color = '#';
+  let color1 ='#';
+  for (let i = 0; i < 6; i++) {
+    color += letters[Math.floor(Math.random() * 16)];
+    color1 += letters[Math.floor(Math.random() * 16)];
+  }
+  return `linear-gradient(to right, ${color}, ${color1})`;
+};
+
+
   return (
     <div
+    style= {isFullscreen ? {background : getRandomColor()} :{ } }  
       ref={playerRef}
       className="player glass fixed bottom-0 left-0 right-0 flex flex-col items-center shadow-lg" onDoubleClick={toggleFullscreen}>
+
       {currentSong && (
         <>
           <div className="flex flex-row w-full mt-5 px-2">
