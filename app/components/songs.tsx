@@ -3,13 +3,6 @@ import React, { useState } from 'react';
 import menu from './songs.json';
 import Player from './player';
 
-interface Song {
-  song: string; // URL of the audio file
-  image: string; // URL of the song image
-  name: string; // Song name
-  artist: string; // Artist name
-}
-
 const Songs: React.FC = () => {
   const [currentSongIndex, setCurrentSongIndex] = useState<number | null>(null);
 
