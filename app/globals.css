@@ -6,3 +6,130 @@ body {
  
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+/* Add these styles to your CSS file */
+
+/* Base player styles */
+.player {
+  transition: all 0.3s ease;
+}
+
+/* Base image styles */
+.player img {
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Fullscreen styles */
+.player:fullscreen {
+  background: linear-gradient(to bottom, #1a1a1a, #000000);
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Adjust content in fullscreen mode */
+.player:fullscreen .flex-row {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding: 2rem;
+}
+
+/* Image scaling and animation in fullscreen */
+.player:fullscreen img {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 60px rgba(0, 0, 0, 0.5);
+  animation: imageEnter 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: transform;
+}
+
+@keyframes imageEnter {
+  0% {
+    transform: scale(0.3) translateY(100px);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1) translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Add floating animation for continuous movement */
+.player:fullscreen img {
+  animation: imageEnter 0.7s cubic-bezier(0.4, 0, 0.2, 1),
+             floatAnimation 3s ease-in-out infinite;
+}
+
+@keyframes floatAnimation {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+/* Add rotation on hover */
+.player:fullscreen img:hover {
+  transform: rotate(5deg) scale(1.05);
+  cursor: pointer;
+}
+
+/* Text alignment in fullscreen */
+.player:fullscreen .flex-1 {
+  text-align: center;
+  margin: 1rem 0 2rem 0;
+  animation: fadeIn 0.5s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Heading sizes in fullscreen */
+.player:fullscreen h3 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.player:fullscreen p {
+  font-size: 1.25rem;
+  opacity: 0.8;
+}
+
+/* Controls in fullscreen */
+.player:fullscreen .space-x-1 {
+  transform: scale(1.5);
+  margin: 2rem 0;
+  animation: fadeIn 0.5s ease-out;
+}
+
+/* Progress bar in fullscreen */
+.player:fullscreen .progress {
+  height: 6px;
+}
+
+.player:fullscreen input[type="range"] {
+  height: 6px;
+}
+
+/* Time display in fullscreen */
+.player:fullscreen .text-sm {
+  font-size: 1rem;
+}
